@@ -1,1 +1,1 @@
-Hell this is a test of git
+Hello this is a test of git
