@@ -1,0 +1,13 @@
+body {
+       font-family: Arial, Helvetica, sans-serif;
+} 
+h1 {
+    color:blueviolet;
+    background-color: chartreuse;
+    font-size: 32px;
+}
+p {
+    font-size: 26px;
+    color: brown;
+    background-color: chartreuse;
+}
